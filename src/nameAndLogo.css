@@ -1,0 +1,47 @@
+.nameAndLogo{
+    
+    width: fit-content;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    /* margin: auto; */
+    background-color: #fff;
+}
+
+.logoImage{
+    height: 50px;
+    width: 50px;
+}
+
+.logoImage img{
+    height: 100%;
+    width: 100%;
+}
+
+.nameAndPlace{
+    /* text-transform: uppercase; */
+    margin: auto;
+    color: #4285F4;
+}
+
+hr.nameHr{
+    width: 50%;
+    /* margin: auto; */
+
+    background-color: #d0bb68;
+    height: 0.5px;
+
+}
+
+.hosName{
+    text-transform: uppercase;
+    font-size: medium;
+    border-bottom: 1px solid #d0bb68;
+    text-align: center;
+    font-weight: bold;
+}
+.hosPlace{
+    padding-top: 5px;
+    font-size:smaller;
+    text-transform: uppercase;
+}

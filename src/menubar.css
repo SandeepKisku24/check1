@@ -1,0 +1,82 @@
+
+.submenupart a{
+    color: #4285F4 !important;
+}
+
+/* .menuBar{
+    width: 60%;
+    background-color: #4285F4;
+    border-bottom-left-radius: 55px;
+    margin-left: auto;
+    margin-bottom: 3px;
+
+  }
+  .menuList{
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    position: relative;
+  }
+  .menuList li a{
+    text-decoration: none;
+    width: 100%;
+    
+    color: #fff;
+    padding: 10px 5px;
+    display: block;
+    font-size: 13px;
+    font-weight: 400;
+    letter-spacing: .5px;
+    text-transform: uppercase;
+    transition: all ease-in 0.3s;
+    position: relative;
+  
+   
+  }
+  .menuList li a:hover{
+    color: #d0bb68;
+    cursor: pointer;
+    border-radius: 2px;
+  }
+  .dropDownList {
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    width: fit-content;
+    height: fit-content;
+    background-color: white;
+    z-index: 1;
+    text-align: left;
+    border-radius: 5px;
+    
+  }
+  .typedrop{
+    width: 400px;
+    margin-left: -100px;
+    display: flex;
+    flex-direction: row !important;
+    justify-content: space-between;
+
+  }
+  .dropDownList a{
+    font-size: 11px !important;
+    color: #4285F4 !important;
+
+    
+  }
+
+  .dropDownList a:hover{
+    color: #d0bb68 !important;
+  }
+
+  .dept{
+    width: 180px;
+    border-right: 2px solid #d0bb68;
+    padding-right: 10px;
+  }
+  .deptHeading{
+    text-transform: uppercase;
+    color: #2f3082;
+    font-size: 13px;
+  } */

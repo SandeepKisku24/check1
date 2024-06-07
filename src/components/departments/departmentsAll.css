@@ -1,0 +1,34 @@
+.departmentType{
+    margin-top: 1%;
+}
+
+.deptNameHeading{
+    font-size: 25px;
+    height: 35px;
+    
+    /* background-color: #d0bb68; */
+    background-color: #4285F4;
+    color: #fff;
+    padding-left: 5%;
+    
+}
+.deptContent{
+    margin-top: 2%;
+    width: 70%;
+    text-align: justify;
+    font-weight: bold;
+    margin-left: 5%;
+    padding-bottom: 2%;
+}
+.DeptDivision{
+    display: flex;
+    /* flex-direction: row; */
+    justify-content: space-around;
+}
+
+@media only screen and (max-width: 768px) {
+    .DeptDivision{
+        display: flex;
+        justify-content: space-around;
+    } 
+}

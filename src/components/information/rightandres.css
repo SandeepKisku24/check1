@@ -1,0 +1,26 @@
+.rightsAndRes{
+    margin-top: 2%;
+}
+.rightsResHeading{
+    font-size: 25px;
+    height: 35px;
+    
+    /* background-color: #d0bb68; */
+    background-color: #4285F4;
+    color: #fff;
+    padding-left: 5%;
+}
+
+.rightsContent{
+    margin-top: 5%;
+    width: 60%;
+    padding-left: 5%;
+    text-align: justify;
+}
+.rightsContent ul{
+    margin-left: 5%;
+}
+.rightHeading{
+    font-size: 20px;
+    font-weight: bold;
+}

@@ -1,0 +1,35 @@
+.ipdInfo{
+    /* width: 90%; */
+    margin: auto;
+    height: max-content;
+    margin-top: 2%;
+}
+.ipdInfoHeading{
+    font-size: 25px;
+    height: 35px;
+    /* background-color: #d0bb68; */
+    background-color: #4285F4;
+    color: #fff;
+    padding-left: 5%;
+}
+.ipdContent{
+    
+    margin-top: 5%;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.ipdContent ol{
+    margin-left: 5%;
+}
+.ipdContent ul{
+    margin-left: 5%;
+}
+.ipdContentOverview{
+    font-weight: bold;
+}
+
+.ipdInfoService{
+    font-size: 20px;
+    font-weight: bold;
+}
