@@ -27,7 +27,7 @@ const DetailsBar = ()=>{
                 Enquiry +91 9546233931 
                 </Group>
             </Anchor>
-            <Link to="/faq" ><Anchor c= "#fff" underline="never" px={10} style={{backgroundColor:"#9B1C1C", textAlign:"center"}} w={80}>FAQ</Anchor>
+            <Link to="/faq" style={{backgroundColor:"#9B1C1C"}} ><Anchor c= "#fff" underline="never" px={10} style={{backgroundColor:"#9B1C1C", textAlign:"center"}} w={80}>FAQ</Anchor>
             </Link>
         </Group>
     )
